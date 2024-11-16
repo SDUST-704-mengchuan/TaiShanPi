@@ -1,4 +1,4 @@
-# LiangShanPi
+# TaiShanPi
 
 基于立创开发板泰山派进行github的使用训练与项目锻炼。
 
